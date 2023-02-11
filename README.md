@@ -35,6 +35,7 @@
 ## `Color System`
 ### [`Key Colors`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#d8394c19-be38-490f-8eb4-192ec2a8d1cb)
 | `Accent Color Name` | `Description on where to use` |
+| ------------------- | ----------------------------- |
 | Primary Key Color   | This is something bright and something that stands out, Say action button etc that enables user to click on it |
 | Secodary Key Color  | This is usually based on primary key color that need to stand out but not as much as primary color |
 | Tertiary Key Color  | This is same as primary and secondary but next lighter action |
