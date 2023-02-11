@@ -11,6 +11,38 @@
 </br>
 
 
+## `About Material-3`
+* it the new standard way of building the UI that the google recommends.
+* In the past till now we used to use material-2 and the material-3 comes with new features
+* A good feature that comes with material-3 is dynamic colors 
+
+
+## `Dynamic Colors`
+* In android-12, we will know about this dynamic colors
+* Android takes wallpaper or the color that you define as your wallpaper and generates a color theme around that. So all the apps that use material theme will generate your own theme based on the color of wallpaper for your app
+
+## `Can we disable this dynamic colors`
+* Yes this is optional, we can disable for our application, if this dosent suit our design.
+
+## `Important links`
+| `Important links` |
+| ----------------- |
+| [Material-3](https://m3.material.io/) |
+| [Color System](https://m3.material.io/styles/color/the-color-system/key-colors-tones) |
+| [Different colors and roles of them](https://m3.material.io/styles/color/the-color-system/color-roles) |
+
+
+## `Color System`
+### [`Key Colors`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#d8394c19-be38-490f-8eb4-192ec2a8d1cb)
+| `Accent Color Name` | `Description on where to use` |
+| Primary Key Color   | This is something bright and something that stands out, Say action button etc that enables user to click on it |
+| Secodary Key Color  | This is usually based on primary key color that need to stand out but not as much as primary color |
+| Tertiary Key Color  | This is same as primary and secondary but next lighter action |
+
+
+
+
+
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
 If you feel like support me a coffee for my efforts, I would greatly appreciate it.</br>
