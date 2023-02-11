@@ -2,7 +2,7 @@
 
 You can contribute us by filing issues, bugs and PRs. You can also take a look at active issues and fix them.
 
-If you want to discuss on something then feel free to present your opinions, views or any other relevant comment on [discussions](https://github.com/devrath/Google-Material-Design-3/discussions).
+If you want to discuss on something then feel free to present your opinions, views or any other relevant comment on [discussions](https://github.com/devrath/Material-3-Design-Kit/discussions).
 
 ### Code contribution
 
