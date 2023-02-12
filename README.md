@@ -222,6 +222,7 @@ fun MaterialAppTheme(
 
 ## `𝚃𝚢𝚙𝚘𝚐𝚛𝚊𝚙𝚑𝚢 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹`
 * Before `Material 3`, there were `6 Headline variations`, `2 Subtitle variations`, `2 Body variations`, `Button`, `Caption`, and `Overline styles`.
+* How to use `headline`,`title`,`body`,`label`, etc. [More details on android documentation](https://m3.material.io/styles/typography/applying-type).
 * In `Material 3`, there is a more regular and smaller number of variants for each classification, namely `Small`, `Medium`, and `Large`.
 
 <div align="center">
@@ -231,7 +232,6 @@ fun MaterialAppTheme(
 | <img src="https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/comparision.png" width="500" height="500"/> |
 
 </div>
-* How to use `headline`,`title`,`body`,`label`, etc. [More details on android documentation](https://m3.material.io/styles/typography/applying-type).
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
