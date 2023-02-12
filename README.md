@@ -11,6 +11,7 @@
 </br>
 
 | **`Contents`** |
+| -------------- |
 | [𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B0%F0%9D%9A%8B%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9D-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9F%B9) |
 | [𝙳𝚢𝚗𝚊𝚖𝚒𝚌 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B3%F0%9D%9A%A2%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%96%F0%9D%9A%92%F0%9D%9A%8C-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
 | [𝙲𝚊𝚗 𝚠𝚎 𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚝𝚑𝚎𝚜𝚎 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B2%F0%9D%9A%8A%F0%9D%9A%97-%F0%9D%9A%A0%F0%9D%9A%8E-%F0%9D%9A%8D%F0%9D%9A%92%F0%9D%9A%9C%F0%9D%9A%8A%F0%9D%9A%8B%F0%9D%9A%95%F0%9D%9A%8E-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%9A%8D%F0%9D%9A%A2%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%96%F0%9D%9A%92%F0%9D%9A%8C-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
