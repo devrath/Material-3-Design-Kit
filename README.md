@@ -44,13 +44,13 @@
 
 | `𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖 𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜` |
 | --------------------- |
-| [Key Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BA%F0%9D%9A%8E%F0%9D%9A%A2-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
-| [Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B0%F0%9D%9A%8C%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B) |
-| [Neutral Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
-| [Error Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B4%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%9B-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
-| [Product-specific custom Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%9D-%F0%9D%9A%9C%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%92%F0%9D%9A%8C-%F0%9D%9A%8C%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%96-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
-| [Inverse Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B8%F0%9D%9A%97%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
-| [Neutral Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9A%9F%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%9D) |
+| [𝙺𝚎𝚢 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BA%F0%9D%9A%8E%F0%9D%9A%A2-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙰𝚌𝚌𝚎𝚗𝚝 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B0%F0%9D%9A%8C%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B) |
+| [𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙴𝚛𝚛𝚘𝚛 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B4%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%9B-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙿𝚛𝚘𝚍𝚞𝚌𝚝-𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚌𝚞𝚜𝚝𝚘𝚖 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%9D-%F0%9D%9A%9C%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%92%F0%9D%9A%8C-%F0%9D%9A%8C%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%96-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B8%F0%9D%9A%97%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9A%9F%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%9D) |
   
 </div>
 
