@@ -34,6 +34,8 @@
 
 ## `Color System`
 
+| Color System Contents |
+| --------------------- |
 | [Key Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BA%F0%9D%9A%8E%F0%9D%9A%A2-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
 | [Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B0%F0%9D%9A%8C%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B) |
 | [Neutral Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
