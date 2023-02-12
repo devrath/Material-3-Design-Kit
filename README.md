@@ -11,81 +11,116 @@
 </br>
 
 
-## `About Material-3`
+## `𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
 * it the new standard way of building the UI that the google recommends.
 * In the past till now we used to use material-2 and the material-3 comes with new features
 * A good feature that comes with material-3 is dynamic colors 
 
 
-## `Dynamic Colors`
+## `𝙳𝚢𝚗𝚊𝚖𝚒𝚌 𝙲𝚘𝚕𝚘𝚛𝚜`
 * In android-12, we will know about this dynamic colors
 * Android takes wallpaper or the color that you define as your wallpaper and generates a color theme around that. So all the apps that use material theme will generate your own theme based on the color of wallpaper for your app
 
-## `Can we disable this dynamic colors`
+## `𝙲𝚊𝚗 𝚠𝚎 𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚝𝚑𝚎𝚜𝚎 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚌𝚘𝚕𝚘𝚛𝚜`
 * Yes this is optional, we can disable for our application, if this dosent suit our design.
 
-## `Important links`
-| `Important links` |
+## `𝙸𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚕𝚒𝚗𝚔𝚜`
+
+<div align="center">
+
+| **`𝙸𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚕𝚒𝚗𝚔𝚜`** |
 | ----------------- |
-| [Material-3](https://m3.material.io/) |
-| [Color System](https://m3.material.io/styles/color/the-color-system/key-colors-tones) |
-| [Different colors and roles of them used in widgets](https://m3.material.io/styles/color/the-color-system/color-roles) |
+| [𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹](https://m3.material.io/) |
+| [𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖](https://m3.material.io/styles/color/the-color-system/key-colors-tones) |
+| [𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚌𝚘𝚕𝚘𝚛𝚜 𝚊𝚗𝚍 𝚛𝚘𝚕𝚎𝚜 𝚘𝚏 𝚝𝚑𝚎𝚖 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚠𝚒𝚍𝚐𝚎𝚝𝚜](https://m3.material.io/styles/color/the-color-system/color-roles) |
+| [𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕 𝚃𝚑𝚎𝚖𝚎 𝙱𝚞𝚒𝚕𝚍𝚎𝚛](https://m3.material.io/theme-builder#/dynamic) |
+  
+</div>
 
 
-## `Color System`
+## `𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖`
+
+<div align="center">
+
+| `𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖 𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜` |
+| --------------------- |
+| [𝙺𝚎𝚢 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BA%F0%9D%9A%8E%F0%9D%9A%A2-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙰𝚌𝚌𝚎𝚗𝚝 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B0%F0%9D%9A%8C%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B) |
+| [𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙴𝚛𝚛𝚘𝚛 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B4%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%9B-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙿𝚛𝚘𝚍𝚞𝚌𝚝-𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚌𝚞𝚜𝚝𝚘𝚖 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%9D-%F0%9D%9A%9C%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%92%F0%9D%9A%8C-%F0%9D%9A%8C%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%96-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B8%F0%9D%9A%97%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9A%9F%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%9D) |
+  
+</div>
+
+
 ### [`𝙺𝚎𝚢 𝙲𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#d8394c19-be38-490f-8eb4-192ec2a8d1cb)
 ![KeyColors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/primary_key_color.png)
 
-| `key Color Name` | `Description on where to use` |
+<div align="center">
+  
+| `𝙺𝚎𝚢 𝙲𝚘𝚕𝚘𝚛 𝙽𝚊𝚖𝚎` | `𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚘 𝚞𝚜𝚎` |
 | ------------------- | ----------------------------- |
 | Primary Key Color   | This is something bright and something that stands out, Say action button etc that enables user to click on it |
 | Secodary Key Color  | This is usually based on primary key color that need to stand out but not as much as primary color |
 | Tertiary Key Color  | This is same as primary and secondary but next lighter action |
 
+</div>
+
 ### [`𝙰𝚌𝚌𝚎𝚗𝚝 𝙲𝚘𝚕𝚘𝚛`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#5b4f0cd4-beb7-41b1-b6ff-a952fcbea726)
 ![Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/accent_colors.png)
 
-| `Accent Color Name` | `Description on where to use` |
+<div align="center">
+  
+| `𝙰𝚌𝚌𝚎𝚗𝚝 𝙲𝚘𝚕𝚘𝚛 𝙽𝚊𝚖𝚎` | `𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚘 𝚞𝚜𝚎` |
 | ------------------- | ----------------------------- |
 | On Primary   | This is a color that is on top of `primary color`. Say if a action button is there with `primary color`, the `plus symbol` on it will be `on primary`  |
 | Primary Container  | This is a color similar to `primary color`, Now we use this say a background for the floating action button. |
 | On Primary Container  | This will the `plus symbol` color on the `primary container` color |
+  
+</div>
 
 ### [`𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#6f490a8e-8e76-4fc7-9257-c13912a891de)
 ![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/nutral_colors.png)
 
-| `Neutral Color Name` | `Description on where to use` |
+<div align="center">
+  
+| `𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝙲𝚘𝚕𝚘𝚛 𝙽𝚊𝚖𝚎` | `𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚘 𝚞𝚜𝚎` |
 | -------------------- | ----------------------------- |
 | Background | This will the color of the background, In case of list the padding area part that seperates list item from screen |
 | OnBackground | This will be if any color needs to be added on top of the `background` but out side the surface |
 | Surface | This will be the background color of the card view in a list |
-| OnSurface | This will be the color, if any view is added that has a background on top of the `surface` |
+| OnSurface | This will be the color, if any view is added that has a background on top of the `surface` |  
+  
+</div>
+
 
 ### [`𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#e14ecb3a-cd4c-41c6-873c-9313128b762a)
 ![𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/error_colors.png)
-| `Error Color Name` | `Description on where to use` |
+
+<div align="center">
+
+| `𝙴𝚛𝚛𝚘𝚛 𝙲𝚘𝚕𝚘𝚛 𝙽𝚊𝚖𝚎` | `𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚘 𝚞𝚜𝚎` |
 | -------------------- | ----------------------------- |
 | Error | Usually we show error in this color, Say Snackbar indicating background color |
 | On Error | This color will be the text or icon color on top of `error` background color |
 | Error Container | This will be the background of say dialog that is displayed as error |
 | On Error Container | Again this will be the content that is displayed on top of `error container` color |
+  
+</div>
 
 ### [`𝙿𝚛𝚘𝚍𝚞𝚌𝚝-𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚌𝚞𝚜𝚝𝚘𝚖 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#cabaac72-7db9-4582-b686-1143aa4d09b2)
-![𝙿𝚛𝚘𝚍𝚞𝚌𝚝-𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚌𝚞𝚜𝚝𝚘𝚖 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/product_specific_custom_colors.png)
 * This is basically the branding colors that we use are specifc to app, In Such a scenario, we use these custom specific colors
 
 ### [`𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/color-roles#b9dcd3da-b7fc-491d-a244-e0485d65c20c)
 ![𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/inverse_roles.png)
 * This is used for some elements that is displayed on top of other surfaces.
-
-### [`𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚜𝚞𝚛𝚏𝚊𝚌𝚎`](https://m3.material.io/styles/color/the-color-system/color-roles#01d8df28-c4f4-474a-8c14-b99a201a528c)
-![𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚜𝚞𝚛𝚏𝚊𝚌𝚎](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/Inverse_surface.png)
 * Used on top of the widgets such as snackbar
 
 ### [`𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝`](https://m3.material.io/styles/color/the-color-system/color-roles#afa8276f-e572-4940-a7ee-e016c81b3889)
 ![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/neutral_varient.png)
 * Used on the borders of widgets and the content of it 
-![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/neutral_varient_example.png)
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
