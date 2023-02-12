@@ -66,7 +66,10 @@
 ![𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/error_colors.png)
 | `Error Color Name` | `Description on where to use` |
 | -------------------- | ----------------------------- |
-| | |
+| Error | Usually we show error in this color, Say Snackbar indicating background color |
+| On Error | This color will be the text or icon color on top of `error` background color |
+| Error Container | This will be the background of say dialog that is displayed as error |
+| On Error Container | Again this will be the content that is displayed on top of `error container` color |
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
 If you feel like support me a coffee for my efforts, I would greatly appreciate it.</br>
