@@ -25,6 +25,7 @@
 | [𝚃𝚢𝚙𝚘𝚐𝚛𝚊𝚙𝚑𝚢 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%9A%83%F0%9D%9A%A2%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%90%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%99%F0%9D%9A%91%F0%9D%9A%A2-%F0%9D%9A%92%F0%9D%9A%97-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9F%B9) |  
 
 </div>
+
   
 ## `𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
 * it the new standard way of building the UI that the google recommends.
@@ -220,7 +221,16 @@ fun MaterialAppTheme(
 ```
 
 ## `𝚃𝚢𝚙𝚘𝚐𝚛𝚊𝚙𝚑𝚢 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹`
+* Before `Material 3`, there were `6 Headline variations`, `2 Subtitle variations`, `2 Body variations`, `Button`, `Caption`, and `Overline styles`.
+* In `Material 3`, there is a more regular and smaller number of variants for each classification, namely `Small`, `Medium`, and `Large`.
 
+<div align="center">
+
+  | **`𝙲𝚘𝚖𝚙𝚊𝚛𝚒𝚜𝚘𝚗 𝚘𝚏 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟸 𝚊𝚗𝚍 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝚜𝚒𝚣𝚎𝚜 𝚊𝚗𝚍 𝚝𝚑𝚎𝚒𝚛 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚌𝚎`** |
+| --------------------------------------------------------------- |
+| <img src="https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/comparision.png" width="500" height="500"/> |
+
+</div>
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
