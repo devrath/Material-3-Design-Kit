@@ -226,11 +226,12 @@ fun MaterialAppTheme(
 
 <div align="center">
 
-  | **`𝙲𝚘𝚖𝚙𝚊𝚛𝚒𝚜𝚘𝚗 𝚘𝚏 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟸 𝚊𝚗𝚍 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝚜𝚒𝚣𝚎𝚜 𝚊𝚗𝚍 𝚝𝚑𝚎𝚒𝚛 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚌𝚎`** |
+| **`𝙲𝚘𝚖𝚙𝚊𝚛𝚒𝚜𝚘𝚗 𝚘𝚏 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟸 𝚊𝚗𝚍 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝚜𝚒𝚣𝚎𝚜 𝚊𝚗𝚍 𝚝𝚑𝚎𝚒𝚛 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚌𝚎`** |
 | --------------------------------------------------------------- |
 | <img src="https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/comparision.png" width="500" height="500"/> |
 
 </div>
+* How to use `headline`,`title`,`body`,`label`, etc. [More details on android documentation](https://m3.material.io/styles/typography/applying-type).
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
