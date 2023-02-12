@@ -25,14 +25,21 @@
 * Yes this is optional, we can disable for our application, if this dosent suit our design.
 
 ## `Important links`
+
+<div align="center">
+
 | `Important links` |
 | ----------------- |
 | [Material-3](https://m3.material.io/) |
 | [Color System](https://m3.material.io/styles/color/the-color-system/key-colors-tones) |
 | [Different colors and roles of them used in widgets](https://m3.material.io/styles/color/the-color-system/color-roles) |
+  
+</div>
 
 
 ## `Color System`
+
+<div align="center">
 
 | Color System Contents |
 | --------------------- |
@@ -43,44 +50,64 @@
 | [Product-specific custom Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%9E%F0%9D%9A%8C%F0%9D%9A%9D-%F0%9D%9A%9C%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%92%F0%9D%9A%8C-%F0%9D%9A%8C%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%96-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
 | [Inverse Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B8%F0%9D%9A%97%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
 | [Neutral Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BD%F0%9D%9A%8E%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9A%9F%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%9D) |
+  
+</div>
 
 
 ### [`𝙺𝚎𝚢 𝙲𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#d8394c19-be38-490f-8eb4-192ec2a8d1cb)
 ![KeyColors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/primary_key_color.png)
 
+<div align="center">
+  
 | `key Color Name` | `Description on where to use` |
 | ------------------- | ----------------------------- |
 | Primary Key Color   | This is something bright and something that stands out, Say action button etc that enables user to click on it |
 | Secodary Key Color  | This is usually based on primary key color that need to stand out but not as much as primary color |
 | Tertiary Key Color  | This is same as primary and secondary but next lighter action |
 
+</div>
+
 ### [`𝙰𝚌𝚌𝚎𝚗𝚝 𝙲𝚘𝚕𝚘𝚛`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#5b4f0cd4-beb7-41b1-b6ff-a952fcbea726)
 ![Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/accent_colors.png)
 
+<div align="center">
+  
 | `Accent Color Name` | `Description on where to use` |
 | ------------------- | ----------------------------- |
 | On Primary   | This is a color that is on top of `primary color`. Say if a action button is there with `primary color`, the `plus symbol` on it will be `on primary`  |
 | Primary Container  | This is a color similar to `primary color`, Now we use this say a background for the floating action button. |
 | On Primary Container  | This will the `plus symbol` color on the `primary container` color |
+  
+</div>
 
 ### [`𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#6f490a8e-8e76-4fc7-9257-c13912a891de)
 ![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/nutral_colors.png)
 
+<div align="center">
+  
 | `Neutral Color Name` | `Description on where to use` |
 | -------------------- | ----------------------------- |
 | Background | This will the color of the background, In case of list the padding area part that seperates list item from screen |
 | OnBackground | This will be if any color needs to be added on top of the `background` but out side the surface |
 | Surface | This will be the background color of the card view in a list |
-| OnSurface | This will be the color, if any view is added that has a background on top of the `surface` |
+| OnSurface | This will be the color, if any view is added that has a background on top of the `surface` |  
+  
+</div>
+
 
 ### [`𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#e14ecb3a-cd4c-41c6-873c-9313128b762a)
 ![𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/error_colors.png)
+
+<div align="center">
+
 | `Error Color Name` | `Description on where to use` |
 | -------------------- | ----------------------------- |
 | Error | Usually we show error in this color, Say Snackbar indicating background color |
 | On Error | This color will be the text or icon color on top of `error` background color |
 | Error Container | This will be the background of say dialog that is displayed as error |
 | On Error Container | Again this will be the content that is displayed on top of `error container` color |
+  
+</div>
 
 ### [`𝙿𝚛𝚘𝚍𝚞𝚌𝚝-𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚌𝚞𝚜𝚝𝚘𝚖 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#cabaac72-7db9-4582-b686-1143aa4d09b2)
 * This is basically the branding colors that we use are specifc to app, In Such a scenario, we use these custom specific colors
