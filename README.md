@@ -10,6 +10,15 @@
 <p align="center">𝚃𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚌𝚘𝚗𝚝𝚊𝚒𝚗𝚜 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎 𝚜𝚊𝚖𝚙𝚕𝚎𝚜 𝚛𝚎𝚐𝚊𝚛𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚖𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹 𝚍𝚎𝚜𝚒𝚐𝚗 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚎𝚍 𝚋𝚢 𝚐𝚘𝚘𝚐𝚕𝚎</p>
 </br>
 
+| **`Contents`** |
+| [𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B0%F0%9D%9A%8B%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9D-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9F%B9) |
+| [𝙳𝚢𝚗𝚊𝚖𝚒𝚌 𝙲𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B3%F0%9D%9A%A2%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%96%F0%9D%9A%92%F0%9D%9A%8C-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙲𝚊𝚗 𝚠𝚎 𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚝𝚑𝚎𝚜𝚎 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B2%F0%9D%9A%8A%F0%9D%9A%97-%F0%9D%9A%A0%F0%9D%9A%8E-%F0%9D%9A%8D%F0%9D%9A%92%F0%9D%9A%9C%F0%9D%9A%8A%F0%9D%9A%8B%F0%9D%9A%95%F0%9D%9A%8E-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%9A%8D%F0%9D%9A%A2%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%96%F0%9D%9A%92%F0%9D%9A%8C-%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
+| [𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚌𝚎𝚜 𝚘𝚋𝚜𝚎𝚛𝚟𝚎𝚍 𝚏𝚛𝚘𝚖 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟸 𝚝𝚘 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B3%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%8F%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%9C-%F0%9D%9A%98%F0%9D%9A%8B%F0%9D%9A%9C%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%8D-%F0%9D%9A%8F%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%96-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9F%B8-%F0%9D%9A%9D%F0%9D%9A%98-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9F%B9) |
+| [𝙸𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚕𝚒𝚗𝚔𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B8%F0%9D%9A%96%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%9D-%F0%9D%9A%95%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%94%F0%9D%9A%9C) |
+| [𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B-%F0%9D%9A%82%F0%9D%9A%A2%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%96) |
+| [𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚐𝚘𝚘𝚐𝚕𝚎 𝚝𝚑𝚎𝚖𝚎 𝚜𝚎𝚕𝚎𝚌𝚝𝚘𝚛 𝚏𝚘𝚛 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹]() |
+
 
 ## `𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
 * it the new standard way of building the UI that the google recommends.
@@ -130,6 +139,10 @@
 ### [`𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝`](https://m3.material.io/styles/color/the-color-system/color-roles#afa8276f-e572-4940-a7ee-e016c81b3889)
 ![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/neutral_varient.png)
 * Used on the borders of widgets and the content of it 
+
+
+## `𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚐𝚘𝚘𝚐𝚕𝚎 𝚝𝚑𝚎𝚖𝚎 𝚜𝚎𝚕𝚎𝚌𝚝𝚘𝚛 𝚏𝚘𝚛 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
+
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
