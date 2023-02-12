@@ -38,7 +38,7 @@
 </div>
 
 
-## `Color System`
+## `𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖`
 
 <div align="center">
 
