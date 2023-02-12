@@ -21,7 +21,7 @@
 | [𝙸𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚕𝚒𝚗𝚔𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B8%F0%9D%9A%96%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%9D-%F0%9D%9A%95%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%94%F0%9D%9A%9C) |
 | [𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B-%F0%9D%9A%82%F0%9D%9A%A2%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%96) |
 | [𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚐𝚘𝚘𝚐𝚕𝚎 𝚝𝚑𝚎𝚖𝚎 𝚜𝚎𝚕𝚎𝚌𝚝𝚘𝚛 𝚏𝚘𝚛 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B7%F0%9D%9A%98%F0%9D%9A%A0-%F0%9D%9A%9D%F0%9D%9A%98-%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E-%F0%9D%9A%90%F0%9D%9A%98%F0%9D%9A%98%F0%9D%9A%90%F0%9D%9A%95%F0%9D%9A%8E-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%96%F0%9D%9A%8E-%F0%9D%9A%9C%F0%9D%9A%8E%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%9B-%F0%9D%9A%8F%F0%9D%9A%98%F0%9D%9A%9B-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95-%F0%9D%9F%B9) |
-| [𝚂𝚊𝚖𝚙𝚕𝚎 𝚝𝚑𝚎𝚖𝚎 𝚏𝚒𝚕𝚎]() |  
+| [𝚂𝚊𝚖𝚙𝚕𝚎 𝚝𝚑𝚎𝚖𝚎 𝚏𝚒𝚕𝚎](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%9A%82%F0%9D%9A%8A%F0%9D%9A%96%F0%9D%9A%99%F0%9D%9A%95%F0%9D%9A%8E-%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%96%F0%9D%9A%8E-%F0%9D%9A%8F%F0%9D%9A%92%F0%9D%9A%95%F0%9D%9A%8E) |  
 
 </div>
   
@@ -153,6 +153,69 @@
 * In the [custom colors option](https://m3.material.io/theme-builder#/custom) we choose a primary color and based on the primary color the algorithm selects other colors, We can even give a specific touches for it.
 
 ## `𝚂𝚊𝚖𝚙𝚕𝚎 𝚝𝚑𝚎𝚖𝚎 𝚏𝚒𝚕𝚎`
+```kotlin
+@Composable
+fun MaterialAppTheme(
+    // Flag to determine the dark/light theme
+    darkTheme: Boolean = isSystemInDarkTheme(),
+    // Dynamic color is available on Android 12+
+    dynamicColor: Boolean = true,
+    // Parent most top level composable
+    content: @Composable () -> Unit
+) {
+   // We need context here because the support for dynamic colors comes from android system
+    val context = LocalContext.current
+    val view = LocalView.current
+
+    // We can apply one of four different color scheme's depending on what type of device the user has.
+    // CONDITION-1:-> If the user is running on android-12 and above, We need to use dynamic colors.
+    // CONDITION-2:-> If the user is running on device prior to android-12, We will use normal material-2 theme.
+    // CONDITION-3:-> If the user again is using light theme, then we use light colors else use dark colors.
+    val colorScheme = when {
+        dynamicColor && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S -> {
+            // CONDITION-1:-> If the user is running on android-12 and above, We need to use dynamic colors.
+            if (darkTheme){
+                // CONDITION-3:-> If the user again is using dark theme, then we use dark colors.
+                dynamicDarkColorScheme(context)
+            } else {
+                // CONDITION-3:-> If the user again is using light theme, then we use light colors.
+                dynamicLightColorScheme(context)
+            }
+        }
+        darkTheme -> {
+            // CONDITION-1:-> If the user is running on below android-12, We need to use material-2 colors.
+            // CONDITION-3:-> If the user again is using dark theme, then we use dark colors.
+            DarkColors
+        }
+        else -> {
+            // CONDITION-1:-> If the user is running on below android-12, We need to use material-2 colors.
+            // CONDITION-3:-> If the user again is using light theme, then we use light colors.
+            LightColors
+        }
+    }
+
+    // Set the color for the status bar
+    if (!view.isInEditMode) {
+        /* getting the current window by tapping into the Activity */
+        val currentWindow = (view.context as? Activity)?.window
+            ?: throw Exception("Not in an activity - unable to get Window reference")
+
+        SideEffect {
+            /* the default code did the same cast here - might as well use our new variable! */
+            currentWindow.statusBarColor = colorScheme.primary.toArgb()
+            /* accessing the insets controller to change appearance of the status bar, with 100% less deprecation warnings */
+            WindowCompat.getInsetsController(currentWindow, view).isAppearanceLightStatusBars =
+                darkTheme
+        }
+    }
+
+    MaterialTheme(
+        colorScheme = colorScheme,
+        typography = Typography,
+        content = content
+    )
+}
+```
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
