@@ -11,28 +11,29 @@
 </br>
 
 
-## `About Material-3`
+## `𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
 * it the new standard way of building the UI that the google recommends.
 * In the past till now we used to use material-2 and the material-3 comes with new features
 * A good feature that comes with material-3 is dynamic colors 
 
 
-## `Dynamic Colors`
+## `𝙳𝚢𝚗𝚊𝚖𝚒𝚌 𝙲𝚘𝚕𝚘𝚛𝚜`
 * In android-12, we will know about this dynamic colors
 * Android takes wallpaper or the color that you define as your wallpaper and generates a color theme around that. So all the apps that use material theme will generate your own theme based on the color of wallpaper for your app
 
-## `Can we disable this dynamic colors`
+## `𝙲𝚊𝚗 𝚠𝚎 𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚝𝚑𝚎𝚜𝚎 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚌𝚘𝚕𝚘𝚛𝚜`
 * Yes this is optional, we can disable for our application, if this dosent suit our design.
 
-## `Important links`
+## `𝙸𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚕𝚒𝚗𝚔𝚜`
 
 <div align="center">
 
-| `Important links` |
+| **`𝙸𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚕𝚒𝚗𝚔𝚜`** |
 | ----------------- |
-| [Material-3](https://m3.material.io/) |
-| [Color System](https://m3.material.io/styles/color/the-color-system/key-colors-tones) |
-| [Different colors and roles of them used in widgets](https://m3.material.io/styles/color/the-color-system/color-roles) |
+| [𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹](https://m3.material.io/) |
+| [𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖](https://m3.material.io/styles/color/the-color-system/key-colors-tones) |
+| [𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚌𝚘𝚕𝚘𝚛𝚜 𝚊𝚗𝚍 𝚛𝚘𝚕𝚎𝚜 𝚘𝚏 𝚝𝚑𝚎𝚖 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚠𝚒𝚍𝚐𝚎𝚝𝚜](https://m3.material.io/styles/color/the-color-system/color-roles) |
+| [𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕 𝚃𝚑𝚎𝚖𝚎 𝙱𝚞𝚒𝚕𝚍𝚎𝚛](https://m3.material.io/theme-builder#/dynamic) |
   
 </div>
 
@@ -41,7 +42,7 @@
 
 <div align="center">
 
-| Color System Contents |
+| `𝙲𝚘𝚕𝚘𝚛 𝚂𝚢𝚜𝚝𝚎𝚖 𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜` |
 | --------------------- |
 | [Key Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BA%F0%9D%9A%8E%F0%9D%9A%A2-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C) |
 | [Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B0%F0%9D%9A%8C%F0%9D%9A%8C%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%9B) |
@@ -59,7 +60,7 @@
 
 <div align="center">
   
-| `key Color Name` | `Description on where to use` |
+| `𝙺𝚎𝚢 𝙲𝚘𝚕𝚘𝚛 𝙽𝚊𝚖𝚎` | `𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚘 𝚞𝚜𝚎` |
 | ------------------- | ----------------------------- |
 | Primary Key Color   | This is something bright and something that stands out, Say action button etc that enables user to click on it |
 | Secodary Key Color  | This is usually based on primary key color that need to stand out but not as much as primary color |
@@ -72,7 +73,7 @@
 
 <div align="center">
   
-| `Accent Color Name` | `Description on where to use` |
+| `𝙰𝚌𝚌𝚎𝚗𝚝 𝙲𝚘𝚕𝚘𝚛 𝙽𝚊𝚖𝚎` | `𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚘 𝚞𝚜𝚎` |
 | ------------------- | ----------------------------- |
 | On Primary   | This is a color that is on top of `primary color`. Say if a action button is there with `primary color`, the `plus symbol` on it will be `on primary`  |
 | Primary Container  | This is a color similar to `primary color`, Now we use this say a background for the floating action button. |
@@ -85,7 +86,7 @@
 
 <div align="center">
   
-| `Neutral Color Name` | `Description on where to use` |
+| `𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝙲𝚘𝚕𝚘𝚛 𝙽𝚊𝚖𝚎` | `𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚘 𝚞𝚜𝚎` |
 | -------------------- | ----------------------------- |
 | Background | This will the color of the background, In case of list the padding area part that seperates list item from screen |
 | OnBackground | This will be if any color needs to be added on top of the `background` but out side the surface |
@@ -100,7 +101,7 @@
 
 <div align="center">
 
-| `Error Color Name` | `Description on where to use` |
+| `𝙴𝚛𝚛𝚘𝚛 𝙲𝚘𝚕𝚘𝚛 𝙽𝚊𝚖𝚎` | `𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚘𝚗 𝚠𝚑𝚎𝚛𝚎 𝚝𝚘 𝚞𝚜𝚎` |
 | -------------------- | ----------------------------- |
 | Error | Usually we show error in this color, Say Snackbar indicating background color |
 | On Error | This color will be the text or icon color on top of `error` background color |
