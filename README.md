@@ -33,7 +33,7 @@
 
 
 ## `Color System`
-### [`Key Colors`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#d8394c19-be38-490f-8eb4-192ec2a8d1cb)
+### [`𝙺𝚎𝚢 𝙲𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#d8394c19-be38-490f-8eb4-192ec2a8d1cb)
 ![KeyColors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/primary_key_color.png)
 
 | `key Color Name` | `Description on where to use` |
@@ -42,7 +42,7 @@
 | Secodary Key Color  | This is usually based on primary key color that need to stand out but not as much as primary color |
 | Tertiary Key Color  | This is same as primary and secondary but next lighter action |
 
-### [`Accent Color`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#5b4f0cd4-beb7-41b1-b6ff-a952fcbea726)
+### [`𝙰𝚌𝚌𝚎𝚗𝚝 𝙲𝚘𝚕𝚘𝚛`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#5b4f0cd4-beb7-41b1-b6ff-a952fcbea726)
 ![Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/primary_key_color.png)
 
 | `Accent Color Name` | `Description on where to use` |
@@ -51,8 +51,22 @@
 | Primary Container  | This is a color similar to `primary color`, Now we use this say a background for the floating action button. |
 | On Primary Container  | This will the `plus symbol` color on the `primary container` color |
 
+### [`𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#6f490a8e-8e76-4fc7-9257-c13912a891de)
+![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/nutral_colors.png)
 
+| `Neutral Color Name` | `Description on where to use` |
+| -------------------- | ----------------------------- |
+| Background | This will the color of the background, In case of list the padding area part that seperates list item from screen |
+| OnBackground | This will be if any color needs to be added on top of the `background` but out side the surface |
+| Surface | This will be the background color of the card view in a list |
+| OnSurface | This will be the color, if any view is added that has a background on top of the `surface` |
 
+## [𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚌𝚘𝚕𝚘𝚛𝚜](https://m3.material.io/styles/color/the-color-system/key-colors-tones#ed9cff6c-5844-43b2-b8d8-34896bd68282)
+### [`𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#e14ecb3a-cd4c-41c6-873c-9313128b762a)
+![𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/error_colors.png)
+| `Error Color Name` | `Description on where to use` |
+| -------------------- | ----------------------------- |
+| | |
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
 If you feel like support me a coffee for my efforts, I would greatly appreciate it.</br>
