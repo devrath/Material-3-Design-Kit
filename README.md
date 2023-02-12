@@ -36,13 +36,20 @@
 ### [`Key Colors`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#d8394c19-be38-490f-8eb4-192ec2a8d1cb)
 ![KeyColors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/primary_key_color.png)
 
-| `Accent Color Name` | `Description on where to use` |
+| `key Color Name` | `Description on where to use` |
 | ------------------- | ----------------------------- |
 | Primary Key Color   | This is something bright and something that stands out, Say action button etc that enables user to click on it |
 | Secodary Key Color  | This is usually based on primary key color that need to stand out but not as much as primary color |
 | Tertiary Key Color  | This is same as primary and secondary but next lighter action |
 
+### [`Accent Color`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#5b4f0cd4-beb7-41b1-b6ff-a952fcbea726)
+![Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/primary_key_color.png)
 
+| `Accent Color Name` | `Description on where to use` |
+| ------------------- | ----------------------------- |
+| On Primary   | This is a color that is on top of `primary color`. Say if a action button is there with `primary color`, the `plus symbol` on it will be `on primary`  |
+| Primary Container  | This is a color similar to `primary color`, Now we use this say a background for the floating action button. |
+| On Primary Container  | This will the `plus symbol` color on the `primary container` color |
 
 
 
