@@ -29,7 +29,7 @@
 | ----------------- |
 | [Material-3](https://m3.material.io/) |
 | [Color System](https://m3.material.io/styles/color/the-color-system/key-colors-tones) |
-| [Different colors and roles of them](https://m3.material.io/styles/color/the-color-system/color-roles) |
+| [Different colors and roles of them used in widgets](https://m3.material.io/styles/color/the-color-system/color-roles) |
 
 
 ## `Color System`
@@ -61,7 +61,6 @@
 | Surface | This will be the background color of the card view in a list |
 | OnSurface | This will be the color, if any view is added that has a background on top of the `surface` |
 
-## [𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚌𝚘𝚕𝚘𝚛𝚜](https://m3.material.io/styles/color/the-color-system/key-colors-tones#ed9cff6c-5844-43b2-b8d8-34896bd68282)
 ### [`𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#e14ecb3a-cd4c-41c6-873c-9313128b762a)
 ![𝙴𝚛𝚛𝚘𝚛 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/error_colors.png)
 | `Error Color Name` | `Description on where to use` |
@@ -71,22 +70,22 @@
 | Error Container | This will be the background of say dialog that is displayed as error |
 | On Error Container | Again this will be the content that is displayed on top of `error container` color |
 
-## [`𝙿𝚛𝚘𝚍𝚞𝚌𝚝-𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚌𝚞𝚜𝚝𝚘𝚖 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#cabaac72-7db9-4582-b686-1143aa4d09b2)
+### [`𝙿𝚛𝚘𝚍𝚞𝚌𝚝-𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚌𝚞𝚜𝚝𝚘𝚖 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#cabaac72-7db9-4582-b686-1143aa4d09b2)
 ![𝙿𝚛𝚘𝚍𝚞𝚌𝚝-𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚌𝚞𝚜𝚝𝚘𝚖 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/product_specific_custom_colors.png)
 * This is basically the branding colors that we use are specifc to app, In Such a scenario, we use these custom specific colors
 
-## [`𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/color-roles#b9dcd3da-b7fc-491d-a244-e0485d65c20c)
+### [`𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚌𝚘𝚕𝚘𝚛𝚜`](https://m3.material.io/styles/color/the-color-system/color-roles#b9dcd3da-b7fc-491d-a244-e0485d65c20c)
 ![𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚌𝚘𝚕𝚘𝚛𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/inverse_roles.png)
 * This is used for some elements that is displayed on top of other surfaces.
+
 ### [`𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚜𝚞𝚛𝚏𝚊𝚌𝚎`](https://m3.material.io/styles/color/the-color-system/color-roles#01d8df28-c4f4-474a-8c14-b99a201a528c)
 ![𝙸𝚗𝚟𝚎𝚛𝚜𝚎 𝚜𝚞𝚛𝚏𝚊𝚌𝚎](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/Inverse_surface.png)
 * Used on top of the widgets such as snackbar
+
 ### [`𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝`](https://m3.material.io/styles/color/the-color-system/color-roles#afa8276f-e572-4940-a7ee-e016c81b3889)
 ![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/Inverse_surface.png)
 * Used on the borders of widgets and the content of it 
 ![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/neutral_varient_example.png)
-
-
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
