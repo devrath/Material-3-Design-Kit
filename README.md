@@ -83,7 +83,7 @@
 * Used on top of the widgets such as snackbar
 
 ### [`𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝`](https://m3.material.io/styles/color/the-color-system/color-roles#afa8276f-e572-4940-a7ee-e016c81b3889)
-![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/Inverse_surface.png)
+![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/neutral_varient.png)
 * Used on the borders of widgets and the content of it 
 ![𝙽𝚎𝚞𝚝𝚛𝚊𝚕 𝚟𝚊𝚛𝚒𝚊𝚗𝚝](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/neutral_varient_example.png)
 
