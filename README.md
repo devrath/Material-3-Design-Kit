@@ -236,10 +236,10 @@ fun MaterialAppTheme(
 </div>
 
 ## `𝚂𝚑𝚊𝚙𝚎𝚜 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹`
-* [Shapes in material3 in android documentation](https://m3.material.io/styles/shape/shape-scale-tokens)
+* [Android documentation](https://m3.material.io/styles/shape/shape-scale-tokens)
 
 ## `𝙴𝚕𝚎𝚟𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹`
-* [Shapes in material3 in android documentation](https://m3.material.io/styles/elevation/overview)
+* [Android documentation](https://m3.material.io/styles/elevation/overview)
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
