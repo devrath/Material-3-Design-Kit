@@ -47,9 +47,9 @@
 
 | `Accent Color Name` | `Description on where to use` |
 | ------------------- | ----------------------------- |
-| On Primary   | This is a color that is on top of `primary color`. Say if a action button is there with `primary color`, the plus symbol on it will be `on primary`  |
-| Primary Container  |  |
-| On Primary Container  |  |
+| On Primary   | This is a color that is on top of `primary color`. Say if a action button is there with `primary color`, the `plus symbol` on it will be `on primary`  |
+| Primary Container  | This is a color similar to `primary color`, Now we use this say a background for the floating action button. |
+| On Primary Container  | This will the `plus symbol` color on the `primary container` color |
 
 
 
