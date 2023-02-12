@@ -24,6 +24,15 @@
 ## `𝙲𝚊𝚗 𝚠𝚎 𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚝𝚑𝚎𝚜𝚎 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚌𝚘𝚕𝚘𝚛𝚜`
 * Yes this is optional, we can disable for our application, if this dosent suit our design.
 
+## `𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚌𝚎𝚜 𝚘𝚋𝚜𝚎𝚛𝚟𝚎𝚍 𝚏𝚛𝚘𝚖 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟸 𝚝𝚘 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹`
+| `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟸` | `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹` |
+| ------------ | ------------ |
+| In the theme file we refer function blocks as `lightColors` and `darkColors` | In the theme file we refer function blocks as `lightColorScheme` and `darkColorScheme`|
+| There is `primary varient` color | `primary varient` color is not there but `primary`,`secondary`,`tertiary` color is present |
+| Dynamic colors are not present | Dynamic colors are present |
+
+
+
 ## `𝙸𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝 𝚕𝚒𝚗𝚔𝚜`
 
 <div align="center">
