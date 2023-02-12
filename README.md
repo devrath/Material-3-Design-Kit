@@ -43,7 +43,7 @@
 | Tertiary Key Color  | This is same as primary and secondary but next lighter action |
 
 ### [`𝙰𝚌𝚌𝚎𝚗𝚝 𝙲𝚘𝚕𝚘𝚛`](https://m3.material.io/styles/color/the-color-system/key-colors-tones#5b4f0cd4-beb7-41b1-b6ff-a952fcbea726)
-![Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/primary_key_color.png)
+![Accent Colors](https://github.com/devrath/Material-3-Design-Kit/blob/main/Assets/accent_colors.png)
 
 | `Accent Color Name` | `Description on where to use` |
 | ------------------- | ----------------------------- |
