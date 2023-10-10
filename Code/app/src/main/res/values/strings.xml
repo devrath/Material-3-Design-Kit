@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MaterialApp</string>
+    <string name="title_activity_buttons">Buttons</string>
 </resources>

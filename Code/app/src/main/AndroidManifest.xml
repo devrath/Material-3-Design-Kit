@@ -12,6 +12,11 @@
         android:theme="@style/Theme.MaterialApp"
         tools:targetApi="31">
         <activity
+            android:name=".modules.ui_buttons.ButtonsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_buttons"
+            android:theme="@style/Theme.MaterialApp" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
