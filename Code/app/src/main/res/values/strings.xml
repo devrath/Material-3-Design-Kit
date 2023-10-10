@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MaterialApp</string>
     <string name="title_activity_buttons">Buttons</string>
+    <string name="title_activity_text_fields">TextFieldsActivity</string>
 </resources>
