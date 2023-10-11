@@ -18,9 +18,9 @@ import androidx.compose.ui.state.ToggleableState
 import androidx.compose.ui.unit.dp
 
 
-data class ToggleCheckBoxData (
-    val isChecked : Boolean = false,
-    val text : String = ""
+data class ToggleCheckBoxData(
+    val isChecked: Boolean = false,
+    val text: String = ""
 )
 
 @Composable
@@ -28,9 +28,9 @@ fun CheckBoxes() {
     // Create a collection of checkboxes as mutableState list in remember block
     val checkboxes = remember {
         mutableStateListOf(
-            ToggleCheckBoxData( isChecked = false , text = "Type-1" ),
-            ToggleCheckBoxData( isChecked = false , text = "Type-2" ),
-            ToggleCheckBoxData( isChecked = false , text = "Type-3" )
+            ToggleCheckBoxData(isChecked = false, text = "Type-1"),
+            ToggleCheckBoxData(isChecked = false, text = "Type-2"),
+            ToggleCheckBoxData(isChecked = false, text = "Type-3")
         )
     }
 
@@ -40,7 +40,7 @@ fun CheckBoxes() {
     }
 
     val toggleTriState = {
-        triState = when(triState){
+        triState = when (triState) {
             ToggleableState.Indeterminate -> ToggleableState.On
             ToggleableState.On -> ToggleableState.Off
             else -> ToggleableState.On
@@ -48,37 +48,40 @@ fun CheckBoxes() {
         // If the triState is On when we updated triState - We will turn on all the checkbox to On
         checkboxes.indices.forEach { index ->
             checkboxes[index] = checkboxes[index].copy(
-                isChecked = ( triState == ToggleableState.On )
+                isChecked = (triState == ToggleableState.On)
             )
         }
     }
 
     Row(
         verticalAlignment = Alignment.CenterVertically,
-        modifier = Modifier.clickable {
-            toggleTriState()
-        }.padding(end = 16.dp)
-    ){
+        modifier = Modifier
+            .clickable {
+                toggleTriState()
+            }
+            .padding(end = 16.dp)
+    ) {
         TriStateCheckbox(state = triState, onClick = toggleTriState)
         Text(text = "All Types")
     }
 
     // Loop the checkboxes
-    checkboxes.forEachIndexed{ index, info ->
+    checkboxes.forEachIndexed { index, info ->
         Row(
             verticalAlignment = Alignment.CenterVertically,
             modifier = Modifier
                 .padding(start = 32.dp)
                 .clickable {
-                checkboxes[index] = info.copy(
-                    isChecked = !info.isChecked
-                )
-            }.padding(end = 16.dp)
-        ){
+                    checkboxes[index] = info.copy(
+                        isChecked = !info.isChecked
+                    )
+                }
+                .padding(end = 16.dp)
+        ) {
             // Check box - item
             Checkbox(
                 checked = info.isChecked,
-                onCheckedChange = {newValue ->
+                onCheckedChange = { newValue ->
                     // On check box selected - Update the index of collection
                     checkboxes[index] = info.copy(
                         isChecked = newValue
@@ -89,6 +92,4 @@ fun CheckBoxes() {
             Text(text = info.text)
         }
     }
-
-
 }
