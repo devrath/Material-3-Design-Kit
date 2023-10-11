@@ -12,6 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.istudio.materialapp.modules.ui_selectioncomponents.widgets.CheckBoxes
 import com.istudio.materialapp.ui.theme.MaterialAppTheme
 
 class SelectionComponentsActivity : ComponentActivity() {
@@ -39,7 +40,7 @@ fun ScreenContent(modifier: Modifier = Modifier) {
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally,
     ){
-
+        CheckBoxes()
     }
 }
 
