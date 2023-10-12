@@ -25,7 +25,7 @@
 | [𝚃𝚢𝚙𝚘𝚐𝚛𝚊𝚙𝚑𝚢 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%9A%83%F0%9D%9A%A2%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%90%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%99%F0%9D%9A%91%F0%9D%9A%A2-%F0%9D%9A%92%F0%9D%9A%97-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9F%B9) |
 | [𝚂𝚑𝚊𝚙𝚎𝚜 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9C-%F0%9D%9A%92%F0%9D%9A%97-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9F%B9) |  
 | [𝙴𝚕𝚎𝚟𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B4%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97-%F0%9D%9A%92%F0%9D%9A%97-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9F%B9) |  
-| [𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚆𝚒𝚍𝚐𝚎𝚝 𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%B4%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97-%F0%9D%9A%92%F0%9D%9A%97-%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9F%B9) |
+| [𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚆𝚒𝚍𝚐𝚎𝚝 𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜](https://github.com/devrath/Material-3-Design-Kit/blob/main/README.md#%F0%9D%99%BC%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9F%B9-%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%92%F0%9D%9A%8D-%F0%9D%9A%86%F0%9D%9A%92%F0%9D%9A%8D%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9D-%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D%F0%9D%9A%9C) |
   
 </div>
 
@@ -243,6 +243,12 @@ fun MaterialAppTheme(
 * [Android documentation](https://m3.material.io/styles/elevation/overview)
 
 ## `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚆𝚒𝚍𝚐𝚎𝚝 𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`  
+| **`𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜`** |
+| -------------- |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚞𝚝𝚝𝚘𝚗𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Buttons) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚃𝚎𝚡𝚝𝙵𝚒𝚎𝚕𝚍`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-TextField) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚄𝙸 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Selection-UI-components) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚠𝚒𝚙𝚊𝚋𝚕𝚎 𝚃𝚊𝚋 𝚁𝚘𝚠𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Swipable-Tab-Rows) |
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
