@@ -3,4 +3,5 @@
     <string name="title_activity_buttons">Buttons</string>
     <string name="title_activity_text_fields">TextFieldsActivity</string>
     <string name="title_activity_selection_components">SelectionComponentsActivity</string>
+    <string name="title_activity_swipable_tab_rows">SwipableTabRowsActivity</string>
 </resources>
