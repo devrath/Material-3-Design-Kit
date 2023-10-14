@@ -12,11 +12,16 @@
         android:theme="@style/Theme.MaterialApp"
         tools:targetApi="31">
         <!--<activity
+            android:name=".modules.ui_toolbar.MaterialActivity"
+            android:exported="false"
+            android:label="@string/title_activity_material"
+            android:theme="@style/Theme.MaterialApp" />-->
+        <activity
             android:name=".modules.ui_swipabletabrows.SwipableTabRowsActivity"
             android:exported="false"
             android:label="@string/title_activity_swipable_tab_rows"
-            android:theme="@style/Theme.MaterialApp" />-->
-         <activity
+            android:theme="@style/Theme.MaterialApp" />
+        <activity
             android:name=".modules.ui_selectioncomponents.SelectionComponentsActivity"
             android:exported="false"
             android:label="@string/title_activity_selection_components"
@@ -32,7 +37,7 @@
             android:label="@string/title_activity_buttons"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_swipabletabrows.SwipableTabRowsActivity"
+            android:name=".modules.ui_toolbar.MaterialActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.MaterialApp">
