@@ -38,27 +38,28 @@
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚠𝚒𝚙𝚊𝚋𝚕𝚎 𝚃𝚊𝚋 𝚁𝚘𝚠𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Swipable-Tab-Rows) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝚃𝚘𝚘𝚕𝚋𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Toolbar) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Navigation-Bar) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝚂𝚑𝚎𝚎𝚝`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Sheet) |
 
 
   
 ## `𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
-* it the new standard way of building the UI that the google recommends.
+* It is the new standard way of building the UI that google recommends.
 * In the past till now we used to use material-2 and the material-3 comes with new features
 * A good feature that comes with material-3 is dynamic colors 
 
 
 ## `𝙳𝚢𝚗𝚊𝚖𝚒𝚌 𝙲𝚘𝚕𝚘𝚛𝚜`
-* In android-12, we will know about this dynamic colors
-* Android takes wallpaper or the color that you define as your wallpaper and generates a color theme around that. So all the apps that use material theme will generate your own theme based on the color of wallpaper for your app
+* In android-12, we will know about these dynamic colors
+* Android takes wallpaper or the color that you define as your wallpaper and generates a color theme around that. So all the apps that use material themes will generate your own theme based on the color of the wallpaper for your app
 
 ## `𝙲𝚊𝚗 𝚠𝚎 𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚝𝚑𝚎𝚜𝚎 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚌𝚘𝚕𝚘𝚛𝚜`
-* Yes this is optional, we can disable for our application, if this dosent suit our design.
+* Yes this is optional, we can disable our application if this doesn't suit our design.
 
 ## `𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚌𝚎𝚜 𝚘𝚋𝚜𝚎𝚛𝚟𝚎𝚍 𝚏𝚛𝚘𝚖 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟸 𝚝𝚘 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹`
 | `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟸` | `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹` |
 | ------------ | ------------ |
 | In the theme file we refer function blocks as `lightColors` and `darkColors` | In the theme file we refer function blocks as `lightColorScheme` and `darkColorScheme`|
-| There is `primary varient` color | `primary varient` color is not there but `primary`,`secondary`,`tertiary` color is present |
+| There is a `primary variant` color | `primary variant` color is not there but `primary`,`secondary`,`tertiary` color is present |
 | Dynamic colors are not present | Dynamic colors are present |
 
 
