@@ -44,54 +44,47 @@ fun BottomNavContent(modifier: Modifier = Modifier) {
     var selectedItemIndex by rememberSaveable { mutableIntStateOf(0) }
     // Keeping track of navigation
     val navController = rememberNavController();
-
-    Column(
-        modifier = Modifier,
-        verticalArrangement = Arrangement.Center,
-        horizontalAlignment = Alignment.CenterHorizontally,
-    ) {
-
-        Scaffold(
-            bottomBar = {
-                NavigationBar {
-                    navItems.forEachIndexed { index, item ->
-                        NavigationBarItem(
-                            // If both the index are same, return true indicating it is selected
-                            selected = (selectedItemIndex == index),
-                            onClick = {
-                                selectedItemIndex = index
-                                navController.navigate(item.route)
-                            },
-                            label = {
-                                Text(text = item.title)
-                            },
-                            icon = {
-                                Icon(
-                                    imageVector = if (selectedItemIndex == index) {
-                                        item.iconSelected
-                                    } else {
-                                        item.iconUnSelected
-                                    },
-                                    contentDescription = item.title
-                                )
-                            },
-                        )
-                    }
+    // Scaffold: it contains bottom navigation bar and a NavHost(Contains all screens) for each screen
+    Scaffold(
+        bottomBar = {
+            NavigationBar {
+                navItems.forEachIndexed { index, item ->
+                    NavigationBarItem(
+                        // If both the index are same, return true indicating it is selected
+                        selected = (selectedItemIndex == index),
+                        onClick = {
+                            selectedItemIndex = index
+                            navController.navigate(item.route)
+                        },
+                        label = {
+                            Text(text = item.title)
+                        },
+                        icon = {
+                            Icon(
+                                imageVector = if (selectedItemIndex == index) {
+                                    item.iconSelected
+                                } else {
+                                    item.iconUnSelected
+                                },
+                                contentDescription = item.title
+                            )
+                        },
+                    )
                 }
             }
-        ) {
-            Column(
-                modifier = Modifier
-                    .fillMaxSize()
-                    .padding(it)
-            ) {
-                BottomNavGraph(navController)
-            }
         }
-
+    ) {
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(it)
+        ) {
+            BottomNavGraph(navController)
+        }
     }
 }
 
+// Navigation graph: Contains all the screens as composable in a NavHost
 @Composable
 fun BottomNavGraph(navController: NavHostController) {
     NavHost(
