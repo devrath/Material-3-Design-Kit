@@ -1,19 +1,9 @@
-package com.istudio.materialapp.modules.ui_bottomnavbar
+package com.istudio.materialapp.modules.ui_bottomnavbar.content
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.ChatBubble
-import androidx.compose.material.icons.filled.Email
-import androidx.compose.material.icons.filled.Home
-import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material.icons.outlined.ChatBubble
-import androidx.compose.material.icons.outlined.Home
-import androidx.compose.material.icons.outlined.Settings
-import androidx.compose.material3.Badge
-import androidx.compose.material3.BadgedBox
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
@@ -24,44 +14,36 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateListOf
-import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.vector.ImageVector
-
-private data class BottomNavItem(
-    val iconSelected: ImageVector,
-    val iconUnSelected: ImageVector,
-    val title: String = ""
-)
+import androidx.navigation.NavHostController
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.rememberNavController
+import com.istudio.materialapp.modules.ui_bottomnavbar.data.BottomNavigationItem
+import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenChat
+import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenHome
+import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenSettings
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun BottomnavContent(modifier: Modifier = Modifier) {
+fun BottomNavContent(modifier: Modifier = Modifier) {
 
     val navItems = remember {
         mutableStateListOf(
-            BottomNavItem(
-                title = "Home",
-                iconSelected = Icons.Filled.Home, iconUnSelected = Icons.Outlined.Home,
-            ),
-            BottomNavItem(
-                title = "Chat",
-                iconSelected = Icons.Filled.ChatBubble, iconUnSelected = Icons.Outlined.ChatBubble,
-
-                ),
-            BottomNavItem(
-                title = "Settings",
-                iconSelected = Icons.Filled.Settings, iconUnSelected = Icons.Outlined.Settings,
-            )
+            BottomNavigationItem.Home,
+            BottomNavigationItem.Chat,
+            BottomNavigationItem.Settings
         )
     }
 
     // The state "rememberSaveable" helps to save the state in configuration changes, We can save in viewmodel also
     var selectedItemIndex by rememberSaveable { mutableIntStateOf(0) }
+    // Keeping track of navigation
+    val navController = rememberNavController();
 
     Column(
         modifier = Modifier,
@@ -78,6 +60,7 @@ fun BottomnavContent(modifier: Modifier = Modifier) {
                             selected = (selectedItemIndex == index),
                             onClick = {
                                 selectedItemIndex = index
+                                navController.navigate(item.route)
                             },
                             label = {
                                 Text(text = item.title)
@@ -93,16 +76,36 @@ fun BottomnavContent(modifier: Modifier = Modifier) {
                                 )
                             },
                         )
-                    } 
+                    }
                 }
             }
         ) {
             Column(
-                modifier = Modifier.fillMaxSize().padding(it)
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(it)
             ) {
-
+                BottomNavGraph(navController)
             }
         }
 
+    }
+}
+
+@Composable
+fun BottomNavGraph(navController: NavHostController) {
+    NavHost(
+        navController = navController,
+        startDestination = BottomNavigationItem.Home.route
+    ) {
+        composable(route = BottomNavigationItem.Home.route) {
+            ScreenHome()
+        }
+        composable(route = BottomNavigationItem.Chat.route) {
+            ScreenChat()
+        }
+        composable(route = BottomNavigationItem.Settings.route) {
+            ScreenSettings()
+        }
     }
 }
