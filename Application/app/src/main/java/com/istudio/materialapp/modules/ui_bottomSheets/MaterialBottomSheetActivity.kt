@@ -110,7 +110,7 @@ fun ScreenContent(modifier: Modifier = Modifier) {
                 }
             }
             // ---------> Entire screen content --------->
-            
+
 
             // For :-> ModalBottomSheet :-> We need a boolean state to handle the open/close dstates
             if (isSheetOpen) {
