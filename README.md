@@ -38,6 +38,7 @@
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚠𝚒𝚙𝚊𝚋𝚕𝚎 𝚃𝚊𝚋 𝚁𝚘𝚠𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Swipable-Tab-Rows) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝚃𝚘𝚘𝚕𝚋𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Toolbar) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Navigation-Bar) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝚂𝚑𝚎𝚎𝚝`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Sheet) |
 
 
   
