@@ -13,12 +13,14 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.wrapContentHeight
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.material3.BottomSheetScaffold
 import androidx.compose.material3.Button
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.ModalBottomSheet
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
+import androidx.compose.material3.rememberBottomSheetScaffoldState
 import androidx.compose.material3.rememberModalBottomSheetState
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -59,35 +61,73 @@ fun ScreenContent(modifier: Modifier = Modifier) {
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
 
-        val sheetState = rememberModalBottomSheetState()
-        var isSheetOpen by rememberSaveable { mutableStateOf(false) }
         val coroutineScope = rememberCoroutineScope()
 
-        Box(
-            modifier = Modifier.fillMaxSize(),
-            contentAlignment = Alignment.Center
-        ) {
-            Button(onClick = {
-                coroutineScope.launch {
-                    isSheetOpen = true
-                    //sheetState.expand()
-                }
-            }) {
-                Text(text = "Launch Bottom Sheet")
-            }
-        }
-        if (isSheetOpen) {
-            ModalBottomSheet(
-                sheetState = sheetState,
-                onDismissRequest = {
-                    coroutineScope.launch {
-                        isSheetOpen = false
-                        sheetState.hide()
-                    }
-                }
-            ) {
+        // For -> ModalBottomSheet
+        val sheetState = rememberModalBottomSheetState()
+        var isSheetOpen by rememberSaveable { mutableStateOf(false) }
+
+        // For -> BottomSheetScaffold
+        val bottomSheetScaffoldState = rememberBottomSheetScaffoldState()
+
+
+        BottomSheetScaffold(
+            scaffoldState = bottomSheetScaffoldState,
+            sheetContent = {
                 BottomSheetContent()
+            },
+            sheetPeekHeight = 0.dp
+        ) {
+
+            // ---------> Entire screen content --------->
+            Box(
+                modifier = Modifier.fillMaxSize(),
+                contentAlignment = Alignment.Center
+            ) {
+
+                Column(
+                    modifier = Modifier.fillMaxSize(),
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                    verticalArrangement = Arrangement.Center
+                ) {
+
+                    Button(onClick = {
+                        coroutineScope.launch {
+                            isSheetOpen = true
+                        }
+                    }) {
+                        Text(text = "Modal Bottom Sheet")
+                    }
+
+                    Button(onClick = {
+                        coroutineScope.launch {
+                            bottomSheetScaffoldState.bottomSheetState.expand()
+                        }
+                    }) {
+                        Text(text = "Bottom Sheet Scaffold")
+                    }
+
+                }
             }
+            // ---------> Entire screen content --------->
+            
+
+            // For :-> ModalBottomSheet :-> We need a boolean state to handle the open/close dstates
+            if (isSheetOpen) {
+                ModalBottomSheet(
+                    sheetState = sheetState,
+                    onDismissRequest = {
+                        coroutineScope.launch {
+                            isSheetOpen = false
+                            sheetState.hide()
+                        }
+                    }
+                ) {
+                    BottomSheetContent()
+                }
+            }
+
+
         }
     }
 }
@@ -98,7 +138,7 @@ fun BottomSheetContent() {
         modifier = Modifier.fillMaxWidth(),
         contentPadding = PaddingValues(16.dp)
     ) {
-        items(10) { currentNumber ->
+        items(4) { currentNumber ->
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
