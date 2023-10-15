@@ -250,7 +250,7 @@ fun MaterialAppTheme(
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚄𝙸 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Selection-UI-components) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚠𝚒𝚙𝚊𝚋𝚕𝚎 𝚃𝚊𝚋 𝚁𝚘𝚠𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Swipable-Tab-Rows) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝚃𝚘𝚘𝚕𝚋𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Toolbar) |
-
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Navigation-Bar) |
 
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
