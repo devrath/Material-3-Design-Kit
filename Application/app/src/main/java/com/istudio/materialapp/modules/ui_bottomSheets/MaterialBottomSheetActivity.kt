@@ -57,7 +57,7 @@ fun ScreenContent(modifier: Modifier = Modifier) {
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally,
-    ){
+    ) {
 
         val sheetState = rememberModalBottomSheetState()
         var isSheetOpen by rememberSaveable { mutableStateOf(false) }
@@ -66,7 +66,7 @@ fun ScreenContent(modifier: Modifier = Modifier) {
         Box(
             modifier = Modifier.fillMaxSize(),
             contentAlignment = Alignment.Center
-        ){
+        ) {
             Button(onClick = {
                 coroutineScope.launch {
                     isSheetOpen = true
@@ -76,7 +76,7 @@ fun ScreenContent(modifier: Modifier = Modifier) {
                 Text(text = "Launch Bottom Sheet")
             }
         }
-        if(isSheetOpen){
+        if (isSheetOpen) {
             ModalBottomSheet(
                 sheetState = sheetState,
                 onDismissRequest = {
@@ -98,7 +98,7 @@ fun BottomSheetContent() {
         modifier = Modifier.fillMaxWidth(),
         contentPadding = PaddingValues(16.dp)
     ) {
-        items(10){currentNumber ->
+        items(10) { currentNumber ->
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
@@ -107,7 +107,8 @@ fun BottomSheetContent() {
                 horizontalArrangement = Arrangement.Center,
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                Text("Current Row -> $currentNumber",
+                Text(
+                    "Current Row -> $currentNumber",
                     style = MaterialTheme.typography.titleMedium
                 )
             }
