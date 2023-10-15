@@ -22,6 +22,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.istudio.materialapp.modules.ui_bottomnavbar.data.BottomNavigationItem
+import com.istudio.materialapp.modules.ui_bottomnavbar.graph.BottomNavGraph
 import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenChat
 import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenHome
 import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenSettings
@@ -78,25 +79,6 @@ fun BottomNavContent(modifier: Modifier = Modifier) {
                 .padding(it)
         ) {
             BottomNavGraph(navController)
-        }
-    }
-}
-
-// Navigation graph: Contains all the screens as composable in a NavHost
-@Composable
-fun BottomNavGraph(navController: NavHostController) {
-    NavHost(
-        navController = navController,
-        startDestination = BottomNavigationItem.Home.route
-    ) {
-        composable(route = BottomNavigationItem.Home.route) {
-            ScreenHome()
-        }
-        composable(route = BottomNavigationItem.Chat.route) {
-            ScreenChat()
-        }
-        composable(route = BottomNavigationItem.Settings.route) {
-            ScreenSettings()
         }
     }
 }
