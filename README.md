@@ -29,6 +29,17 @@
   
 </div>
 
+## `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚆𝚒𝚍𝚐𝚎𝚝 𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`  
+| **`𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜`** |
+| -------------- |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚞𝚝𝚝𝚘𝚗𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Buttons) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚃𝚎𝚡𝚝𝙵𝚒𝚎𝚕𝚍`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-TextField) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚄𝙸 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Selection-UI-components) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚠𝚒𝚙𝚊𝚋𝚕𝚎 𝚃𝚊𝚋 𝚁𝚘𝚠𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Swipable-Tab-Rows) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝚃𝚘𝚘𝚕𝚋𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Toolbar) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Navigation-Bar) |
+
+
   
 ## `𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
 * it the new standard way of building the UI that the google recommends.
@@ -241,17 +252,6 @@ fun MaterialAppTheme(
 
 ## `𝙴𝚕𝚎𝚟𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹`
 * [Android documentation](https://m3.material.io/styles/elevation/overview)
-
-## `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚆𝚒𝚍𝚐𝚎𝚝 𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`  
-| **`𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜`** |
-| -------------- |
-| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚞𝚝𝚝𝚘𝚗𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Buttons) |
-| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚃𝚎𝚡𝚝𝙵𝚒𝚎𝚕𝚍`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-TextField) |
-| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚄𝙸 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Selection-UI-components) |
-| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝚂𝚠𝚒𝚙𝚊𝚋𝚕𝚎 𝚃𝚊𝚋 𝚁𝚘𝚠𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Swipable-Tab-Rows) |
-| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝚃𝚘𝚘𝚕𝚋𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Toolbar) |
-| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Navigation-Bar) |
-
 
 ## **`𝚂𝚞𝚙𝚙𝚘𝚛𝚝`** ☕
 If you feel like support me a coffee for my efforts, I would greatly appreciate it.</br>
