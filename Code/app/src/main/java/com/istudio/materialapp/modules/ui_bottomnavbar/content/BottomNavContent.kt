@@ -32,6 +32,7 @@ import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenSettings
 @Composable
 fun BottomNavContent(modifier: Modifier = Modifier) {
 
+    // Data items to have the Bottom tabs
     val navItems = remember {
         mutableStateListOf(
             BottomNavigationItem.Home,
@@ -40,7 +41,7 @@ fun BottomNavContent(modifier: Modifier = Modifier) {
         )
     }
 
-    // The state "rememberSaveable" helps to save the state in configuration changes, We can save in viewmodel also
+    // The state "rememberSavable" helps to save the state in configuration changes, We can save in viewmodel also
     var selectedItemIndex by rememberSaveable { mutableIntStateOf(0) }
     // Keeping track of navigation
     val navController = rememberNavController();
