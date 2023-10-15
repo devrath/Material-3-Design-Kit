@@ -11,7 +11,7 @@ import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenSettings
 
 // Navigation graph: Contains all the screens as composable in a NavHost
 @Composable
-fun BottomNavGraph(navController: NavHostController) {
+fun NavigationGraph(navController: NavHostController) {
     NavHost(
         navController = navController,
         startDestination = BottomNavigationItem.Home.route

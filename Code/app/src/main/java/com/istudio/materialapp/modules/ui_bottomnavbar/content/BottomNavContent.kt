@@ -3,7 +3,6 @@ package com.istudio.materialapp.modules.ui_bottomnavbar.content
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
@@ -17,15 +16,9 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import androidx.navigation.NavHostController
-import androidx.navigation.compose.NavHost
-import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.istudio.materialapp.modules.ui_bottomnavbar.data.BottomNavigationItem
-import com.istudio.materialapp.modules.ui_bottomnavbar.graph.BottomNavGraph
-import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenChat
-import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenHome
-import com.istudio.materialapp.modules.ui_bottomnavbar.screens.ScreenSettings
+import com.istudio.materialapp.modules.ui_bottomnavbar.graph.NavigationGraph
 
 @Composable
 fun BottomNavContent(modifier: Modifier = Modifier) {
@@ -78,7 +71,7 @@ fun BottomNavContent(modifier: Modifier = Modifier) {
                 .fillMaxSize()
                 .padding(it)
         ) {
-            BottomNavGraph(navController)
+            NavigationGraph(navController)
         }
     }
 }
