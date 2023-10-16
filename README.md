@@ -39,6 +39,7 @@
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝚃𝚘𝚘𝚕𝚋𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Toolbar) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Navigation-Bar) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝚂𝚑𝚎𝚎𝚝`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Sheet) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙴𝚡𝚙𝚘𝚜𝚎𝚍𝙳𝚛𝚘𝚙𝙳𝚘𝚠𝚗 𝙼𝚎𝚗𝚞`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-ExposedDropDown-Menu) |
 
 
   
