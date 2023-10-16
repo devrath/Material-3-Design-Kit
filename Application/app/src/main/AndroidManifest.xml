@@ -12,10 +12,15 @@
         android:theme="@style/Theme.MaterialApp"
         tools:targetApi="31">
         <!--<activity
+            android:name=".modules.ui_exposeddropdown.ExposedDropDownActivity"
+            android:exported="false"
+            android:label="@string/title_activity_exposed_drop_down"
+            android:theme="@style/Theme.MaterialApp" />-->
+        <activity
             android:name=".modules.ui_bottomSheets.MaterialBottomSheetActivity"
             android:exported="false"
             android:label="@string/title_activity_material_bottom_sheet"
-            android:theme="@style/Theme.MaterialApp" />-->
+            android:theme="@style/Theme.MaterialApp" />
         <activity
             android:name=".modules.ui_bottomnavbar.activity.BottomNavigationBarActivity"
             android:exported="false"
@@ -47,7 +52,7 @@
             android:label="@string/title_activity_buttons"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_bottomSheets.MaterialBottomSheetActivity"
+            android:name=".modules.ui_exposeddropdown.ExposedDropDownActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.MaterialApp">
