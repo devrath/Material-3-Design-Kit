@@ -4,14 +4,12 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.AddAPhoto
 import androidx.compose.material.icons.filled.AddCircle
 import androidx.compose.material.icons.filled.DarkMode
 import androidx.compose.material.icons.filled.Landscape
@@ -85,15 +83,17 @@ fun ScreenContent(modifier: Modifier = Modifier) {
                             contentDescription = "Dark Mode"
                         )
                     }
-                })
-            },
-            floatingActionButton = {
-                FloatingActionButton(onClick = { /*TODO*/ }) {
-                    Icon(
-                        imageVector = Icons.Default.AddCircle,
-                        contentDescription = "Call contact"
-                    )
-                }
+                },
+                    floatingActionButton = {
+                        FloatingActionButton(onClick = {
+                            Toast.makeText(cxt, "Add Clicked!", Toast.LENGTH_SHORT).show()
+                        }) {
+                            Icon(
+                                imageVector = Icons.Default.AddCircle,
+                                contentDescription = "Add clicked"
+                            )
+                        }
+                    })
             }
         ) {
             Box(
