@@ -51,8 +51,9 @@
 
 <div align="center">
 
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-PXyyFDP6oY/0.jpg)](https://www.youtube.com/watch?v=-PXyyFDP6oY)
-
+| **`Light Theme Demo`** | **`Dark Theme Demo`** |
+| ---------------- | ------------------ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-PXyyFDP6oY/0.jpg)](https://www.youtube.com/watch?v=-PXyyFDP6oY) |  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kYTOhWQerrQ/0.jpg)](https://www.youtube.com/watch?v=kYTOhWQerrQ) |
      
 </div>
 
