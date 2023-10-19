@@ -32,6 +32,7 @@
 <div align="center">
   
 ## `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚆𝚒𝚍𝚐𝚎𝚝 𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`  
+
 | **`𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜`** |
 | -------------- |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚞𝚝𝚝𝚘𝚗𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Buttons) |
@@ -43,6 +44,7 @@
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝚂𝚑𝚎𝚎𝚝`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Sheet) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙴𝚡𝚙𝚘𝚜𝚎𝚍𝙳𝚛𝚘𝚙𝙳𝚘𝚠𝚗 𝙼𝚎𝚗𝚞`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-ExposedDropDown-Menu) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙰𝚕𝚎𝚛𝚝𝙳𝚒𝚊𝚕𝚘𝚐`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-AlertDialog) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚘𝚝𝚝𝚘𝚖𝙰𝚙𝚙𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-BottomAppBar) |
 
 </div>
   
