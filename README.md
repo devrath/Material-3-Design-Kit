@@ -47,8 +47,16 @@
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚘𝚝𝚝𝚘𝚖𝙰𝚙𝚙𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-BottomAppBar) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗𝙳𝚛𝚊𝚠𝚎𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-NavigationDrawer) |
 
-
 </div>
+
+<div align="center">
+
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-PXyyFDP6oY/0.jpg)](https://www.youtube.com/watch?v=-PXyyFDP6oY)
+
+     
+</div>
+
+
   
 ## `𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
 * It is the new standard way of building the UI that Google recommends.
