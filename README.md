@@ -29,7 +29,10 @@
   
 </div>
 
+<div align="center">
+  
 ## `𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚆𝚒𝚍𝚐𝚎𝚝 𝙲𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜`  
+
 | **`𝙲𝚘𝚗𝚝𝚎𝚗𝚝𝚜`** |
 | -------------- |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚞𝚝𝚝𝚘𝚗𝚜`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Buttons) |
@@ -40,11 +43,13 @@
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Navigation-Bar) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙱𝚘𝚝𝚝𝚘𝚖 𝚂𝚑𝚎𝚎𝚝`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-Bottom-Sheet) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙴𝚡𝚙𝚘𝚜𝚎𝚍𝙳𝚛𝚘𝚙𝙳𝚘𝚠𝚗 𝙼𝚎𝚗𝚞`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-ExposedDropDown-Menu) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙰𝚕𝚎𝚛𝚝𝙳𝚒𝚊𝚕𝚘𝚐`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-AlertDialog) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚘𝚝𝚝𝚘𝚖𝙰𝚙𝚙𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-BottomAppBar) |
 
-
+</div>
   
 ## `𝙰𝚋𝚘𝚞𝚝 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹`
-* It is the new standard way of building the UI that google recommends.
+* It is the new standard way of building the UI that Google recommends.
 * In the past till now we used to use material-2 and the material-3 comes with new features
 * A good feature that comes with material-3 is dynamic colors 
 
