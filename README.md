@@ -45,6 +45,8 @@
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 - 𝙴𝚡𝚙𝚘𝚜𝚎𝚍𝙳𝚛𝚘𝚙𝙳𝚘𝚠𝚗 𝙼𝚎𝚗𝚞`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-ExposedDropDown-Menu) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙰𝚕𝚎𝚛𝚝𝙳𝚒𝚊𝚕𝚘𝚐`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-AlertDialog) |
 | [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙱𝚘𝚝𝚝𝚘𝚖𝙰𝚙𝚙𝙱𝚊𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-BottomAppBar) |
+| [`𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝟹 ‐ 𝙽𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚘𝚗𝙳𝚛𝚊𝚠𝚎𝚛`](https://github.com/devrath/Material-3-Design-Kit/wiki/Material3-%E2%80%90-NavigationDrawer) |
+
 
 </div>
   
