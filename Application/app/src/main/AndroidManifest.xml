@@ -11,63 +11,63 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MaterialApp"
         tools:targetApi="31">
-        <!--<activity
-            android:name=".modules.ui_navigationdrawer.NavigationDrawerActivity"
+        <activity
+            android:name=".modules.ui_components.ui_navigationdrawer.NavigationDrawerActivity"
             android:exported="false"
             android:label="@string/title_activity_navigation_drawer"
-            android:theme="@style/Theme.MaterialApp" />-->
+            android:theme="@style/Theme.MaterialApp" />
          <activity
-            android:name=".modules.ui_bottomappbar.BottomAppBarActivity"
+            android:name=".modules.ui_components.ui_bottomappbar.BottomAppBarActivity"
             android:exported="false"
             android:label="@string/title_activity_bottom_app_bar"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_alertdialog.AlertDialogActivity"
+            android:name=".modules.ui_components.ui_alertdialog.AlertDialogActivity"
             android:exported="false"
             android:label="@string/title_activity_alert_dialog"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_exposeddropdown.ExposedDropDownActivity"
+            android:name=".modules.ui_components.ui_exposeddropdown.ExposedDropDownActivity"
             android:exported="false"
             android:label="@string/title_activity_exposed_drop_down"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_bottomSheets.MaterialBottomSheetActivity"
+            android:name=".modules.ui_components.ui_bottomSheets.MaterialBottomSheetActivity"
             android:exported="false"
             android:label="@string/title_activity_material_bottom_sheet"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_bottomnavbar.activity.BottomNavigationBarActivity"
+            android:name=".modules.ui_components.ui_bottomnavbar.activity.BottomNavigationBarActivity"
             android:exported="false"
             android:label="@string/title_activity_bottom_navigation_bar"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_toolbar.MaterialToolbarActivity"
+            android:name=".modules.ui_components.ui_toolbar.MaterialToolbarActivity"
             android:exported="false"
             android:label="@string/title_activity_material"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_swipabletabrows.SwipableTabRowsActivity"
+            android:name=".modules.ui_components.ui_swipabletabrows.SwipableTabRowsActivity"
             android:exported="false"
             android:label="@string/title_activity_swipable_tab_rows"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_selectioncomponents.SelectionComponentsActivity"
+            android:name=".modules.ui_components.ui_selectioncomponents.SelectionComponentsActivity"
             android:exported="false"
             android:label="@string/title_activity_selection_components"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_textfields.TextFieldsActivity"
+            android:name=".modules.ui_components.ui_textfields.TextFieldsActivity"
             android:exported="false"
             android:label="@string/title_activity_text_fields"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_buttons.ButtonsActivity"
+            android:name=".modules.ui_components.ui_buttons.ButtonsActivity"
             android:exported="false"
             android:label="@string/title_activity_buttons"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_navigationdrawer.NavigationDrawerActivity"
+            android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.MaterialApp">
