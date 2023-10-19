@@ -11,12 +11,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MaterialApp"
         tools:targetApi="31">
-       <!-- <activity
+        <!--<activity
+            android:name=".modules.ui_navigationdrawer.NavigationDrawerActivity"
+            android:exported="false"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/Theme.MaterialApp" />-->
+         <activity
             android:name=".modules.ui_bottomappbar.BottomAppBarActivity"
             android:exported="false"
             android:label="@string/title_activity_bottom_app_bar"
-            android:theme="@style/Theme.MaterialApp" />-->
-         <activity
+            android:theme="@style/Theme.MaterialApp" />
+        <activity
             android:name=".modules.ui_alertdialog.AlertDialogActivity"
             android:exported="false"
             android:label="@string/title_activity_alert_dialog"
@@ -62,7 +67,7 @@
             android:label="@string/title_activity_buttons"
             android:theme="@style/Theme.MaterialApp" />
         <activity
-            android:name=".modules.ui_bottomappbar.BottomAppBarActivity"
+            android:name=".modules.ui_navigationdrawer.NavigationDrawerActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.MaterialApp">
